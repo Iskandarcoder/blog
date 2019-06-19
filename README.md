@@ -1,0 +1,2 @@
+# blog
+bot uchun
